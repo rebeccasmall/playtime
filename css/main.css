@@ -236,11 +236,13 @@ footer img {
 
   .about-text {
     width: 50%;
+    order: 1;
     /* Change the placement of the text by adding order: 1; */
   }
 
   .about-image {
     width: 50%;
+    order: 2;
     /* Change the placement of the image by adding order: 2; */
   }
 
